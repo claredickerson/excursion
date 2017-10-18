@@ -1,1 +1,10 @@
-This is an empty css sheet for now. 
+h1{
+  font-weight: normal;
+  font-size: 50px;
+  color: #ffffff;
+  text-align: center;
+}
+
+h1, h2{
+  font-family: "Verdana";
+}
